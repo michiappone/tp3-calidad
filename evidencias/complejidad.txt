@@ -1,0 +1,5 @@
+src/pedidos.py
+    F 4:0 calcular_total - A (5)
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (5.0)

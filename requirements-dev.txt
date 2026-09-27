@@ -1,0 +1,6 @@
+black
+ruff
+pytest
+pytest-cov
+radon
+pip-audit
